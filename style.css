@@ -47,26 +47,26 @@ body {
 }
 
 .bg-1 {
-    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=futuristic%20AI%20technology%20abstract%20background%20with%20glowing%20neon%20lights%20and%20digital%20particles%20dark%20blue%20purple%20gradient&image_size=landscape_16_9');
+    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=anime%20girl%20with%20brown%20hair%20cute%20smile%20school%20uniform%20soft%20lighting%20anime%20style%20portrait&image_size=landscape_16_9');
     animation: slideShow 20s infinite;
 }
 
 .bg-2 {
-    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=artificial%20intelligence%20brain%20network%20visualization%20cyber%20space%20deep%20learning%20concept%20dark%20theme&image_size=landscape_16_9');
+    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=anime%20couple%20romantic%20sunset%20scene%20beautiful%20sky%20warm%20colors%20anime%20art%20style&image_size=landscape_16_9');
     animation: slideShow 20s infinite 6.6s;
 }
 
 .bg-3 {
-    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=futuristic%20data%20flow%20visualization%20AI%20algorithms%20neural%20network%20connections%20dark%20background&image_size=landscape_16_9');
+    background-image: url('https://neeko-copilot.bytedance.net/api/text2image?prompt=cute%20anime%20child%20happy%20smile%20playful%20soft%20pastel%20colors%20anime%20illustration&image_size=landscape_16_9');
     animation: slideShow 20s infinite 13.3s;
 }
 
 @keyframes slideShow {
     0%, 25% {
-        opacity: 0.15;
+        opacity: 0.12;
     }
     35%, 60% {
-        opacity: 0.15;
+        opacity: 0.12;
     }
     70%, 100% {
         opacity: 0;
